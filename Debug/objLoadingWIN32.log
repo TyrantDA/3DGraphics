@@ -1,0 +1,25 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Shader.cpp
+  Octree.cpp
+  IntersectionTests.cpp
+  TextureHandler.cpp
+  Vector3d.cpp
+  Vector2d.cpp
+  Spin.cpp
+  OBJLoader.cpp
+  imageLoaderPNG.cpp
+  threeDModel.cpp
+  BoundingBox.cpp
+  main.cpp
+C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Camera.h(22,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Character.cpp
+C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Camera.h(22,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Camera.cpp
+C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Camera.h(22,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Box.cpp
+  Actor.cpp
+C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Camera.h(22,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Generating Code...
+C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Camera.cpp(115): warning C4715: 'Camera::cameraView': not all control paths return a value
+Actor.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  objLoadingWIN32.vcxproj -> C:\Users\Alexander\Documents\work\programming\year 3\graphics coursework\Debug\objLoadingWIN32.exe
